@@ -1,0 +1,66 @@
+❌ Không tìm thấy nút Đăng cho: Mã (Y0582) - 175 Tệ - M L
+❌ Không tìm thấy nút Đăng cho: Mã (Y0582) - 175 Tệ - M L
+✅ Đã đăng bài: Mã (Y0582) - 175 Tệ - M L
+✅ Đã đăng bài: Mã (Y0591) - 120 Tệ - NoSize
+✅ Đã đăng bài: Mã (Y0582) - 175 Tệ - M L
+✅ Đã đăng bài: Mã (Y0591) - 120 Tệ - NoSize
+✅ Đã đăng bài: Mã (Y0582) - 175 Tệ - M L
+✅ Đã đăng bài: Mã (Y0591) - 120 Tệ - NoSize
+✅ Đã đăng bài: Mã (Y0604) - 230 Tệ - NoSize
+✅ Đã đăng bài: Mã (Y0582) - 175 Tệ - M L
+✅ Đã đăng bài: Mã (Y0591) - 120 Tệ - NoSize
+✅ Đã đăng bài: Mã (Y0604) - 230 Tệ - NoSize
+✅ Đã đăng bài: Mã (Y0582) - 175 Tệ - M L
+✅ Đã đăng bài: Mã (Y0591) - 120 Tệ - NoSize
+✅ Đã đăng bài: Mã (Y0604) - 230 Tệ - NoSize
+✅ Đã đăng bài: Mã (Y0582) - 175 Tệ - M L
+✅ Đã đăng bài: Mã (Y0591) - 120 Tệ - NoSize
+❌ Lỗi khi đăng bài "Mã (Y0582) - 175 Tệ - M L": Multiple file uploads only work with <input type=file multiple>
+❌ Lỗi khi đăng bài "Mã (Y0591) - 120 Tệ - NoSize": Multiple file uploads only work with <input type=file multiple>
+❌ Lỗi khi đăng bài "Mã (Y0604) - 230 Tệ - NoSize": Multiple file uploads only work with <input type=file multiple>
+✅ Đã đăng bài: Mã (Y0582) - 175 Tệ - M L
+❌ Không tìm thấy nút tạo bài viết: Mã (Y0591) - 120 Tệ - NoSize
+❌ Không tìm thấy nút tạo bài viết: Mã (Y0604) - 230 Tệ - NoSize
+✅ Đã đăng bài: Mã (Y0591) - 120 Tệ - NoSize
+✅ Đã đăng bài: Mã (Y0604) - 230 Tệ - NoSize
+❌ Lỗi khi đăng bài "Mã 105137 - 160 Tệ - M S": Waiting for selector `div[contenteditable="true"]` failed: Waiting failed: 10000ms exceeded
+❌ Lỗi khi đăng bài "Mã 88611 - 150 Tệ - M S": Waiting for selector `div[contenteditable="true"]` failed: Waiting failed: 10000ms exceeded
+✅ Đã đăng bài: Mã 105137 - 160 Tệ - M S
+❌ Lỗi khi đăng bài "Mã 88611 - 150 Tệ - M S": Protocol error (DOM.describeNode): Target closed
+✅ Đã đăng bài: Mã 88611 - 150 Tệ - M S
+✅ Đã đăng bài: Mã (Y0582) - 175 Tệ - M L
+✅ Đã đăng bài: Mã ID1D2ZxQ_01644 - 130 Tệ - NoSize
+✅ Đã đăng bài: Mã (Y0582) - 175 Tệ - M L
+✅ Đã đăng bài: Mã ID7T0FTg_01614 - 55 Tệ - NoSize
+✅ Đã đăng bài: Mã (Y0582) - 175 Tệ - M L
+❌ Lỗi khi đăng bài "Mã (Y0582) - 175 Tệ - M L": clipboardy.writeImage is not a function
+✅ Đã đăng bài: Mã (Y0582) - 175 Tệ - M L
+❌ Không tìm thấy nút tạo bài viết: Mã ID7T0FTg_01614 - 55 Tệ - NoSize
+❌ Lỗi khi đăng bài "Mã ID7T0FTg_01614 - 55 Tệ - NoSize": file is not defined
+❌ Lỗi khi đăng bài "Mã 8812(Y0592) - 250 Tệ - NoSize": Không tìm thấy vùng drop ảnh
+❌ Lỗi khi đăng bài "Mã 8812(Y0592) - 250 Tệ - NoSize": Không tìm thấy vùng drop ảnh
+❌ Lỗi khi đăng bài "Mã 8812(Y0592) - 250 Tệ - NoSize": Không tìm thấy vùng drop ảnh
+✅ Đã đăng bài: Mã 8812(Y0592) - 250 Tệ - NoSize
+✅ Đã đăng bài: Mã ID7T0FTg_01614 - 55 Tệ - NoSize
+✅ Đã đăng bài: Mã (Y0582) - 175 Tệ - M L
+✅ Đã đăng bài: Mã (Y0591) - 120 Tệ - NoSize
+✅ Đã đăng bài: Mã (Y0591) - 120 Tệ - NoSize
+✅ Đã đăng bài: Mã (Y0604) - 230 Tệ - NoSize
+✅ Đã đăng bài: Mã 102490 - 75 Tệ - NoSize
+✅ Đã đăng bài: Mã (Y0582) - 175 Tệ - M L
+✅ Đã đăng bài: Mã (Y0591) - 120 Tệ - NoSize
+✅ Đã đăng bài: Mã (Y0582) - 175 Tệ - M L
+✅ Đã đăng bài: Mã (Y0591) - 120 Tệ - NoSize
+✅ Đã đăng bài: Mã (Y0604) - 230 Tệ - NoSize
+✅ Đã đăng bài: Mã 102490 - 75 Tệ - NoSize
+✅ Đã đăng bài: Mã 102532 - 115 Tệ - M S
+✅ Đã đăng bài: Mã 102571 - 150 Tệ - S M
+✅ Đã đăng bài: Mã 105137 - 160 Tệ - M S
+✅ Đã đăng bài: Mã 105138 - 165 Tệ - M S
+✅ Đã đăng bài: Mã 23816(Y0256) - 300 Tệ - NoSize
+✅ Đã đăng bài: Mã 8812(Y0592) - 250 Tệ - NoSize
+✅ Đã đăng bài: Mã 88602(Y0391) - 115 Tệ - S M
+✅ Đã đăng bài: Mã 88605(Y0424) - 180 Tệ - M S
+✅ Đã đăng bài: Mã 88607 - 160 Tệ - M S
+✅ Đã đăng bài: Mã 88608(Y0529) - 120 Tệ - S M
+✅ Đã đăng bài: Mã 88609(Y0422) - 180 Tệ - S M
