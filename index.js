@@ -2,8 +2,11 @@ import { getAllProductItems } from "./utils/fetchList.js";
 import { fetchProductDetail } from "./utils/fetchDetail.js";
 import { saveProductAssets } from "./utils/save.js";
 
-const albumId = "A202410282001227512002187";
-const targetAlbumId = "_dlFqf6WDaj_CCoLc_x-6L8vYUYuws-URg4edCYw";
+// const albumId = "A202410282001227512002187"; // Áo khoác lông vũ
+// const targetAlbumId = "_dlFqf6WDaj_CCoLc_x-6L8vYUYuws-URg4edCYw"; // Áo khoác lông vũ
+
+const albumId = "A202208240808000300001896";
+const targetAlbumId = "_dtKqHykmMYMYbkg9eeNxVa_QBj5AGT_-hgGMAHg";
 
 async function main() {
   const start = Date.now();

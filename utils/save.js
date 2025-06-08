@@ -28,10 +28,10 @@ export async function saveProductAssets(product) {
   const sizeStr = uniqueSizes.join(" ") || "NoSize";
   const realPrice = optimaPrice
     ? Number(optimaPrice) >= 50
-      ? Number(optimaPrice) + 20
-      : Number(optimaPrice) + 10
-    : 20;
-  const priceStr = `${realPrice} Tệ`;
+      ? Number(optimaPrice) + 5
+      : Number(optimaPrice) + 5
+    : "Liên hệ";
+  const priceStr = `${realPrice} ${Number(realPrice) > 0 && 'Tệ'}`;
 
   const shortId = id ? id.slice(-6) : "NoCode";
   const now = new Date();
